@@ -16,7 +16,6 @@ Run below command to create password. Modify the password in script itself
 ```bash
 python jupyter_notebook_config.py
 ```
-```
 
 ## Using Docker
 
